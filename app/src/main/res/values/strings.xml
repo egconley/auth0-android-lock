@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Auth0 Lock for Android</string>
+
+    <string name="com_auth0_client_id">vZb09adZGL1ztWnJoex1bDnJtCJomGiP</string>
+    <string name="com_auth0_domain">ellen-dse.us.auth0.com</string>
+    <string name="com_auth0_scheme">demo</string>
+    <string name="api_audience">https://my-api.ellen</string>
+    <string name="registration_name_label">First name</string>
+    <string name="registration_last_name_label">Last name</string>
+</resources>
